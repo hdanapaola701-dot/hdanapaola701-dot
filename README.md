@@ -30,6 +30,6 @@ Aquí puedes explorar el código de las bases técnicas que he consolidado:
 ### 🔗 Conectemos Profesionalmente
 
 - 💼 Explora mi documentación detallada, casos de prueba y reportes visuales en mi **[Portafolio de Notion](https://malleable-tiglon-29f.notion.site/Portafolio-para-Quality-Assurance-Engineer-300422e7581080929797fe49be9d940c?source=copy_link)**.
-- 📬 Conversemos en **[Mi LinkedIn](www.linkedin.com/in/dana-paola-hernández-qa-tester)**.
+- 📬 Conversemos en **(www.linkedin.com/in/dana-paola-hernández-qa-tester)**.
 
 ¡A paso lento, pero con total seguridad y determinación! 🐌✨
