@@ -1,8 +1,6 @@
 # 👋 ¡Hola! Soy Dana Paola Hernández | QA Tester Junior 🚀
 
-Iniciando mi camino en la ingeniería de calidad de software con una filosofía muy clara: **avanzo paso a paso, como un caracol, pero con una dirección firme y sin miedo a salir de mi zona de confort.** 🐌
-
-Como egresada del bootcamp de QA Engineer en **TripleTen**, transformé mi pasión por la tecnología en habilidades técnicas reales mediante un programa intensivo de más de 300 horas de preparación práctica. Combino mi rigor analítico, mi formación en idiomas (inglés y japonés) y mi experiencia previa en Back Office financiero para asegurar productos digitales robustos y sin fallos.
+⚡ 11001 | QA Engineer & Game Tester TraineeSoy un QA Engineer en entrenamiento, apasionado por la calidad de software, los videojuegos y las plataformas de streaming. Me enfoco en pruebas manuales y automatizadas, validación de interfaces y controles, y pruebas de API. Además, exploro fundamentos de security training para asegurar flujos lógicos sin fallos.🔭 En mis proyectos (como mi suite de pruebas enfocada en Subway Surfers Web), aplico un fuerte enfoque analítico para desglosar componentes críticos del juego. Actualmente domino herramientas como Selenium, Python, Postman y Jira bajo metodologías Ágiles. Busco mi primera oportunidad profesional para aportar valor mientras continúo mi aprendizaje.
 
 🎯 **Mi Rumbo Profesional:** Consolidarme en la industria IT orientando mi autoestudio y proyectos hacia el **Game QA (Testing de Videojuegos)** y las **Plataformas de Streaming (OTT)*
 
