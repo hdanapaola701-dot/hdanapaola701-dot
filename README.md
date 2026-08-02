@@ -4,23 +4,9 @@ Iniciando mi camino en la ingeniería de calidad de software con una filosofía 
 
 Como egresada del bootcamp de QA Engineer en **TripleTen**, transformé mi pasión por la tecnología en habilidades técnicas reales mediante un programa intensivo de más de 300 horas de preparación práctica. Combino mi rigor analítico, mi formación en idiomas (inglés y japonés) y mi experiencia previa en Back Office financiero para asegurar productos digitales robustos y sin fallos.
 
-🎯 **Mi Rumbo Profesional:** Consolidarme en la industria IT orientando mi autoestudio y proyectos hacia el **Game QA (Testing de Videojuegos)** y las **Plataformas de Streaming (OTT)**.
+🎯 **Mi Rumbo Profesional:** Consolidarme en la industria IT orientando mi autoestudio y proyectos hacia el **Game QA (Testing de Videojuegos)** y las **Plataformas de Streaming (OTT)*
 
----
 
-## 🎓 Programa de Formación Completo (TripleTen)
-
-| Módulo de Especialización | Duración Estimada |
-| :--- | :--- |
-| 📋 Introducción a QA Engineering & Diseño de pruebas | 4 semanas (60 horas) |
-| 🌐 Pruebas de aplicaciones web & Pruebas de API | 4 semanas (60 horas) |
-| 📱 Pruebas de aplicaciones móviles | 2 semanas (30 horas) |
-| 🗄️ Fundamentos de las bases de datos (SQL) | 3 semanas (45 horas) |
-| 🤖 Introducción a la automatización de pruebas | 3 semanas (45 horas) |
-| 💻 Automatización de pruebas de la aplicación web | 3 semanas (45 horas) |
-| 🚀 Proyecto Final Integrador | 3 semanas (45 horas) |
-
----
 
 ## 🛠️ Tools & Ecosystem
 
